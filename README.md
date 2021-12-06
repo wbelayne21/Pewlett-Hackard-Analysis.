@@ -19,6 +19,6 @@ Pewlett Hackard is a company with numerous baby-boomer employees who are approac
 Attachments:
  eligible mentors by title 		                           
  ![mentors_by_title](https://user-images.githubusercontent.com/92958091/144796309-4600023a-47fc-48af-bdad-b39b24210f42.png)
-                           
- Currently with PH and retiring soon. 
+ 
+ Currently with PH and retiring soon.
 ![current_retiree](https://user-images.githubusercontent.com/92958091/144796343-caf3d0a6-7356-4d54-8287-346461183e14.png)
